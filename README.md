@@ -1,5 +1,5 @@
-# winter_assignment_3
+# winter_assignment_5
 
-## Topic : Matplotlib
-- 데이터를 시각화 하는 방법
-- 보기도 좋은 데이터가 분석하기도 좋다!
+## Topic : EDA
+- 데이터로부터 인사이트를 뽑아내는 방법은?!
+- Show your insight in Titanic, and your data!
