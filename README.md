@@ -1,4 +1,4 @@
-# winter_assignment_5
+# winter_assignment_4
 
 ## Topic : EDA
 - 데이터로부터 인사이트를 뽑아내는 방법은?!
